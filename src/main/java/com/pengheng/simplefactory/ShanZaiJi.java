@@ -1,12 +1,12 @@
 package com.pengheng.simplefactory;
 
 /**
- * @project IPersistence_test
+ * @project pengheng
  * @remark
  * @Author Administrator
  * @date 2020/11/18
  */
-public class Shanzaiji implements Mobile {
+public class ShanZaiJi implements Mobile {
     public void playGame() {
         System.out.println("山寨机玩游戏");
     }
