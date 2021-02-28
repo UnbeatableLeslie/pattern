@@ -1,9 +1,4 @@
-package com.pengheng.simplefactory;
-
-import com.pengheng.simplefactory.Apple;
-import com.pengheng.simplefactory.Mobile;
-import com.pengheng.simplefactory.Nokia;
-import com.pengheng.simplefactory.Xiaomi;
+package com.pengheng.factory.simplefactory;
 
 /**
  * @Author pengheng

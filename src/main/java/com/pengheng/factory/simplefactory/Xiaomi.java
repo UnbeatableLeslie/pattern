@@ -1,4 +1,4 @@
-package com.pengheng.factorymethod;
+package com.pengheng.factory.simplefactory;
 
 /**
  * @project pengheng
